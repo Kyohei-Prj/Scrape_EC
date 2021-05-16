@@ -1,0 +1,6 @@
+browser_head: {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.03497.100'}
+base_url: 'https://www.biccamera.com/bc/item/'
+driver: './driver/chromedriver'
+rec_field: "[class='clearfix withBuy']"
+css: 'bcs_item'
+encoding: 'shift_jis'
